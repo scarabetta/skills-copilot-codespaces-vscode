@@ -1,6 +1,4 @@
-// Create web server that can respond to requests for /comments.json
-// with a list of comments in JSON format. Assume comments is an array
-// of comment objects, each with a "content" and a "date" property.
+// Create web server
 
 var http = require('http');
 var url = require('url');
